@@ -1,3 +1,3 @@
 # Video Generation
 
-Examples of doing video generation with Veo3
+Examples of doing video generation with Veo
